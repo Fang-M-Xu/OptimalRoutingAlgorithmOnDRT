@@ -1,0 +1,21 @@
+﻿Line,Residential,Residential-Commercial,Commercial,Public,Industrial,Sheltered Residence,Scenario,Travel tool
+"Scenario1
+Bus1",209,1,15,10,6,0,1,Bus
+"Scenario1
+Bus2",268,3,8,11,5,0,1,Bus
+"Scenario1
+Bus3",494,31,61,24,17,0,1,Bus
+"Scenario1
+DRT",164,1,7,4,3,0,1,DRT
+"Scenario2
+Bus",670,37,143,82,33,1,2,Bus
+"Scenario2
+DRT",468,32,104,71,23,1,2,DRT
+"Scenario3
+Bus",113,2,36,22,6,0,3,Bus
+"Scenario3
+DRT",432,7,25,26,24,1,3,DRT
+"Scenario4
+Bus",638,13,19,5,11,0,4,Bus
+"Scenario4
+DRT",578,13,4,1,10,0,4,DRT
