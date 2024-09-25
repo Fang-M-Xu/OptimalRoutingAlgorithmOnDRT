@@ -1,7 +1,7 @@
 ### OptimalRoutingAlgorithmOnDRT
 
 
-### Architecture of files
+### Brief of files
 - GroupPassengers.py
 
 - RouteResearch.py
@@ -12,9 +12,9 @@
 
 - TestData.py
 
-### Built With
-* [![matplotlib]][pyplot]
-* [![sklearn]][cluster]
+### Tools
+* Matplotlib | pyplot
+* Sklearn | cluster
 
 <!-- LICENSE -->
 ### CopyRight
